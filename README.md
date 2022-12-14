@@ -7,7 +7,7 @@
 
 
 
-## :pencil: Table of Contents
+## :pen: Table of Contents
 - [Description](#description)
 - [Used technologies](#used_technologies)
 - [Team members](#team_members)
