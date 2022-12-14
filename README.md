@@ -1,4 +1,4 @@
-"# Word-Leaders" 
+# Word-Leaders
 <p align="center">
 <a href=" rel="noopener">
 <img src="https://github.com/BSBadalova21/Word-Leaders/blob/main/Logo.png" alt="Logo" width="500px">
