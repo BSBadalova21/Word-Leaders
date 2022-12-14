@@ -1,18 +1,11 @@
 "# Word-Leaders" 
 <p align="center">
 <a href=" rel="noopener">
-<img src="Desktop/Logo.png" alt="Logo" width=26% height=26%>
+<img src="https://github.com/BSBadalova21/Word-Leaders/blob/main/Logo.png" alt="Logo" width="500px">
 </a>
 </p>
 
- 
 
-<p align = "center">
-<img src = "https://img.shields.io/github/languages/count/BSBadalova21/Word-Leaders?style=flat">
-<img src = "https://img.shields.io/github/repo-size/BSBadalova21/Word-Leaders?style=flat">
-<img src = "https://img.shields.io/github/stars/BSBadalova21/Word-Leaders?style=social">
-<img src = "https://img.shields.io/github/contributors/BSBadalova21/Word-Leaders?style=flat">
-</p>
 
 ## :pencil: Table of Contents
 - [Description](#description)
