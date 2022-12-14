@@ -8,10 +8,10 @@
  
 
 <p align = "center">
-<img src = "https://img.shields.io/github/languages/count/BSBadalova21/Error-Makres?style=flat">
-<img src = "https://img.shields.io/github/repo-size/BSBadalova21/Error-Makers?style=flat">
-<img src = "https://img.shields.io/github/stars/BSBadalova21/Error-Makers?style=social">
-<img src = "https://img.shields.io/github/contributors/BSBadalova21/Error-Makers?style=flat">
+<img src = "https://img.shields.io/github/languages/count/BSBadalova21/Word-Leaders?style=flat">
+<img src = "https://img.shields.io/github/repo-size/BSBadalova21/Word-Leaders?style=flat">
+<img src = "https://img.shields.io/github/stars/BSBadalova21/Word-Leaders?style=social">
+<img src = "https://img.shields.io/github/contributors/BSBadalova21/Word-Leaders?style=flat">
 </p>
 
 ## :pencil: Table of Contents
@@ -29,7 +29,7 @@ The main goal of our project is game of C++
  
 
     *    Awesome algorithm 
-    *    Easy to use and styled UI
+    *    To guess the word by using logic
 
 ## :computer: Used technologies <a name="used_technologies"></a>
 - [Visual Studio](https://visualstudio.microsoft.com/) - Application
