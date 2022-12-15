@@ -122,6 +122,62 @@ int start(string word) // start the game
             cout << endl;
             tries = -1;
             break;
+
+
+
+        default:
+            cout << "You can try again ";
+        }
+        if (tries == 6)
+        {
+            return 0;
+        }
+        cout << "The word you have to guess is: ";
+        cout << show << endl;
+        char response;
+        cin >> response;
+
+
+
+
+        bool rightGuess = false;
+        bool duplicate = false;
+        for (int i = 0; i < word.length(); i++)
+            if (response == word[i])
+                if (show[i] == word[i])
+                {
+
+
+
+
+                    cout << response << " is already in the word.\n";
+                    duplicate = true;
+                    break;
+                }
+                else
+                {
+                    show[i] = word[i];
+                    exposed++;
+                    rightGuess = true;
+                }
+        if (duplicate)
+            continue;
+        if (!rightGuess)
+        {
+            tries++;
+            cout << response << " is not in the word.\n";
         }
     }
+    cout << "Congratulations, you have guested the word " << word << "." << endl;
+
+
+
+
+
+    return tries;
+}
+int main()
+{
+    cout << start("dinosaur");
+    cout << " times to guess the word dinosaur." << endl;
 }
